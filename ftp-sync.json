@@ -1,0 +1,27 @@
+{
+    "remotePath": "./public_html",
+    "host": "ftp.hazzardwebdesign.offyoucode.co.uk",
+    "username": "hazzardw",
+    "password": "1uHu4%PojMj0kkZp%$n2enORD",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}
